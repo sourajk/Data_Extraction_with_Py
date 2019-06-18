@@ -1,4 +1,4 @@
-# Data_Extraction_with_Py
+# Data_Extraction_with_Python
 A simple step by step process to extract dat from SQLite3 and MySQL DBMS.
 
 Required:
