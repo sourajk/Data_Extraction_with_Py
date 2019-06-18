@@ -1,10 +1,10 @@
 # Data Extraction with Python
-A simple step by step process to extract dat from SQLite3 and MySQL DBMS.
+A simple step by step process to extract dat from SQLite3, APIs and Web scraping.
 
-Required:
-Python, Anaconda, Sqlite3
+# Required:
+Python, Anaconda, Sqlite3, Requests, BeautifulSoup
 
-Genereal steps:
+# Genereal steps for sqlite 3:
 1. Import package
 2. Make connection to the database using connection string
 3. Initialize cursor
