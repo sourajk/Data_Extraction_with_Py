@@ -1,7 +1,11 @@
 #import required package
 import sqlite3 as sq
 
+
+##################
 #CREATING A TABLE
+##################
+
 #Create a connection
 connection = sq.connect("classroomDB.db") #connection string
 
@@ -27,9 +31,11 @@ connection.commit()
 #Close the connection
 connection.close()
 
+
 ################
 #INSERTING DATA
 ################
+
 connection = sq.connect("classroomDB.db")
 
 cursor = connection.cursor()
