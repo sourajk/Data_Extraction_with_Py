@@ -2,17 +2,17 @@
 
 A simple step by step process to extract dat from SQLite3, APIs and Web scraping.
 
-#
+
 
 
 # Required
 
 Python, Anaconda, Sqlite3, Requests, BeautifulSoup
 
-# 
 
 
-# Genereal steps for sqlite 3
+
+# General steps for Extracting data from SQLite3/MySQL/MS SQL Databases
 
 1. Import package
 2. Make connection to the database using connection string
@@ -23,5 +23,5 @@ Python, Anaconda, Sqlite3, Requests, BeautifulSoup
 7. Close connection
 8. Query will vary according to the task we are facing - creating table, inserting data, showing data, manipulating data, etc.
 
-# 
+
 
